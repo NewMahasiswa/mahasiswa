@@ -1,0 +1,102 @@
+
+
+    body {
+       font-family: "Lucida Console", "Courier New", monospace;
+     }
+            h1 {
+       color: rgb(1, 8, 12)
+    }
+       h2 {
+       color: black
+    }
+     
+    h3 {
+       color: black
+    }
+
+        footer {
+       padding: 20px;
+       color: white;
+       background-color: black
+    }
+        nav a {
+       font-size: 28px;
+    }
+     
+         .
+
+    
+/*Slide pada halaman 5*/
+        .card {
+       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+       border-radius: 5px;
+    }
+
+    
+
+/*Slide pada halaman 6 */
+        .card {
+       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+       border-radius: 5px;
+       padding: 20px;
+       margin-top: 20px;
+    }
+/*Slide pada halaman 7*/
+        .jumbotron {
+       font-size: 20px;
+       padding: 60px;
+       background-color: #34c4ce;
+       text-align: center;
+       color: white;
+    }
+
+        nav li {
+       display: inline;
+       list-style-type: none;
+       margin-right: 20px;
+    }
+
+        nav {
+       background-color: #127077;
+       padding: 5px;
+    }
+
+        nav a {
+       font-size: 18px;
+       font-weight: 400;
+       text-decoration: none;
+       color: white;
+    }
+
+    p#second {
+    text-align: right;
+}
+
+
+
+div#content {
+background-color: rgb(100, 100, 100);
+padding: 20px 15px;
+}
+ 
+#content > h2 {
+background-color: #3B9C9C;
+padding: 15px;
+color: white;
+}
+ 
+#content > h3 {
+background-color: #307D7E;
+padding: 15px;
+color: white;
+}
+ 
+#content > p {
+background-color: hsl(56, 62%, 85%);
+padding: 20px;
+}
+
+    main {
+       padding: 20px;
+    }
+
